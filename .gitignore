@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+venv/
+.env/
+
+# Training outputs
+runs_evo_cannon/
+*.npz
+*.csv
+*.json
+
+# OS junk
+.DS_Store
+Thumbs.db
